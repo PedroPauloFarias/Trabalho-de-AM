@@ -2,7 +2,7 @@ Projeto Atualizado – Sistema de Controle Financeiro Pessoal Inteligente
 🧩 1. Definição do Escopo do Projeto
 
 Objetivo Geral:
-Desenvolver um app que permita ao usuário controlar suas finanças pessoais com registro automático e manual, incluindo captura de contas por foto, registro de renda mensal, e integração automática com extratos bancários para facilitar o acompanhamento das faturas pagas.
+Desenvolver um app que permita ao usuário controlar suas finanças pessoais com registro automático e manual, incluindo captura de contas por foto, registro de renda mensal, e integração automática com extratos bancários para facilitar o acompanhamento das faturas pagas. Inteligencia Artificial para recomendações de investimentos e alertas para nao estrapolar o limite posto pelo usuario
 
 ⚙️ 2. Requisitos Funcionais (RF)
 
