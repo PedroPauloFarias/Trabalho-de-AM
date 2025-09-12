@@ -70,3 +70,17 @@ Desenvolvimento do módulo OCR (bibliotecas como Tesseract, Google Vision API).
 Protótipo da captura e reconhecimento de contas.
 
 Definição das políticas de segurança para integração bancária.
+###
+
+
+monte uma estrutura de projeto para ser realizado em dois meses do tema Turismo Sustentável e Conservação Ambiental no Pantanal
+
+Reflexão Inicial do Projeto
+
+O tema norteador deste semestre é o desenvolvimento de soluções inovadoras e sustentáveis que promovam a transformação social, econômica e ambiental, alinhadas aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU. Esse tema é fundamental para enfrentarmos os desafios globais atuais, como a degradação ambiental, a desigualdade social e as mudanças climáticas, especialmente em regiões sensíveis e de grande importância ecológica, como o Pantanal. A conservação dos ecossistemas naturais e o uso sustentável dos recursos são essenciais para garantir o equilíbrio ambiental e a qualidade de vida das comunidades que dependem diretamente desses ambientes.
+
+Nosso projeto, focado no Turismo Sustentável e na Conservação Ambiental no Pantanal, está diretamente relacionado a esse tema, pois busca conciliar a promoção do turismo, uma importante atividade econômica local, com a preservação dos recursos naturais e culturais da região. O Pantanal é um dos biomas mais ricos em biodiversidade do mundo, porém enfrenta ameaças crescentes devido ao crescimento desordenado do turismo e à exploração inadequada dos recursos naturais. Portanto, é imprescindível desenvolver práticas que assegurem o uso sustentável do ambiente, minimizando os impactos negativos e fortalecendo a economia local de forma responsável.
+
+Os Objetivos de Desenvolvimento Sustentável que mais se conectam ao nosso projeto são o ODS 8 (Trabalho Decente e Crescimento Econômico), que incentiva o desenvolvimento econômico inclusivo e sustentável, o ODS 12 (Consumo e Produção Responsáveis), que promove a gestão sustentável dos recursos naturais, e o ODS 15 (Vida Terrestre), que visa conservar os ecossistemas terrestres e a biodiversidade. Além disso, o ODS 13 (Ação Contra a Mudança Global do Clima) está presente na preocupação com os impactos ambientais decorrentes das atividades humanas na região.
+
+Dessa forma, nosso projeto não só contribui para a proteção ambiental do Pantanal, mas também fortalece a economia local ao capacitar os moradores e empreendedores para um turismo consciente e sustentável. Acreditamos que essa proposta tem grande potencial transformador, pois alia educação, conscientização e ação prática, promovendo um modelo de desenvolvimento que respeita o meio ambiente e gera benefícios sociais duradouros.
